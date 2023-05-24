@@ -1,0 +1,177 @@
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/ActorPruebas.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\ActorPruebas.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ActorPruebas.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/ActorSpawnerComponent.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\ActorSpawnerComponent.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ActorSpawnerComponent.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/AdaptadorMovimientoAleatorio_CA.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\AdaptadorMovimientoAleatorio_CA.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\MovimientoAleatorio_CA.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\MovimientoAleatorio_CA.generated.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\MovimientoAleatorio.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\MovimientoAleatorio.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\AdaptadorMovimientoAleatorio_CA.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/AdaptadorPistola.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\AdaptadorPistola.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Honda.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Honda.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\AdaptadorPistola.generated.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Pistola.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Pistola.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Block.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Block.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Bloque.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Bloque.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Bloque.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/BloqueExplosivo.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\BloqueExplosivo.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloqueExplosivo.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/BloqueHielo.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\BloqueHielo.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloqueHielo.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/BloqueMadera.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\BloqueMadera.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloqueMadera.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/BloqueMetal.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\BloqueMetal.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloqueMetal.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/BloquePiedra.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\BloquePiedra.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloquePiedra.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Board.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Board.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Piece.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\functional
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xutility
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Board.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Cazador.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Cazador.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Cazador.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Cuartel.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Cuartel.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Cuartel.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\UnidadCuartel.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\UnidadCuartel.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Decorador.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Decorador.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Estructura.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Estructura.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Decorador.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/DelegateListener.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\DelegateListener.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\DelegateListener.generated.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\TetrisUSFX01GameModeBase.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Estructura.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/EstructuraConcreta.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\EstructuraConcreta.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EstructuraConcreta.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/FloorPlan.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\FloorPlan.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\FloorPlan.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Honda.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/InventarioComponent.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\InventarioComponent.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\InventarioComponent.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/InventoryActor.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\InventoryActor.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\InventoryActor.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/InventoryCharacter.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\InventoryCharacter.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\InventoryCharacter.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/MovimientoAleatorio.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/MovimientoAleatorio_CA.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/MyTriggerVolume.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\MyTriggerVolume.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\MyTriggerVolume.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/OrbitingMovementComponent.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\OrbitingMovementComponent.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\OrbitingMovementComponent.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Piece.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\vector
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Pieza.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\Pieza.h
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\PiezaEstructura.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaEstructura.generated.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Pieza.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/PiezaEstructura.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/PiezasBuilder.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\PiezasBuilder.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezasBuilder.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/Pistola.cpp
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/PruebaActoresCompuestos.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\PruebaActoresCompuestos.h
+C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PruebaActoresCompuestos.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/TetrisUSFX01.cpp
+C:\scr4\TetrisUSFX01\Source\TetrisUSFX01\TetrisUSFX01.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/TetrisUSFX01GameModeBase.cpp
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:/scr4/TetrisUSFX01/Source/TetrisUSFX01/UnidadCuartel.cpp

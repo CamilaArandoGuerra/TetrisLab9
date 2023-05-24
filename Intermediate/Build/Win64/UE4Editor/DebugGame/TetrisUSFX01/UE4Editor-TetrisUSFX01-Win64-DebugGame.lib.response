@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TetrisUSFX01-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\TetrisUSFX01Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Module.TetrisUSFX01.cpp.obj"
+"C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Module.TetrisUSFX01.gen.cpp.obj"
+"C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Default.rc2.res"
+/OUT:"C:\scr4\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\UE4Editor-TetrisUSFX01-Win64-DebugGame.lib"
